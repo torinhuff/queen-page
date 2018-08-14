@@ -1,0 +1,12 @@
+.sidebar {
+  padding-left: 15px;
+  padding-right: 5px;
+  margin-right: 15px;
+  width: 15%;
+  float: left;
+  background-color: #4286f4;
+}
+.columns {
+  width: 300px;
+  float: right;
+}
