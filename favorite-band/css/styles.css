@@ -2,11 +2,37 @@
   padding-left: 15px;
   padding-right: 5px;
   margin-right: 15px;
-  width: 15%;
+  width: 20%;
   float: left;
   background-color: #4286f4;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
 }
 .columns {
-  width: 300px;
+  width: 25%;
   float: right;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#grad {
+    background-image: linear-gradient(#6dace8, #e1f73b);
+}
+
+.ytvid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
